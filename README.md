@@ -1,4 +1,4 @@
-# EXP-6
+<img width="920" height="538" alt="Screenshot 2025-10-18 130536" src="https://github.com/user-attachments/assets/352012f9-80ad-45cc-b071-04327c756e59" /># EXP-6
 EXP No. :6 			CHARACTERISTICS M OF LVDT
 AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
@@ -9,6 +9,13 @@ THEORY: - LVDT is basically a mutual inductance type transformer with variable c
 
 DIAGRAM:
 CIRCUIT DIAGRAM
+<img width="864" height="728" alt="Screenshot 2025-10-18 130623" src="https://github.com/user-attachments/assets/087a673d-e506-4f28-b590-18ee4eefb2ee" />
+
+<img width="932" height="538" alt="Screenshot 2025-10-18 130557" src="https://github.com/user-attachments/assets/d922b803-9849-42fd-8711-b162fbb4ec9a" />
+<img width="920" height="538" alt="Screenshot 2025-10-18 130536" src="https://github.com/user-attachments/assets/5339109c-f2f2-4499-96cb-483282ac5ac5" />
+
+
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -18,6 +25,8 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+<img width="737" height="277" alt="Screenshot 2025-10-18 130454" src="https://github.com/user-attachments/assets/ff9346ca-67ea-4887-9634-bc1f5af76e70" />
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
